@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594393075069",
+    "project_id": "urbanmalta-fe8a7",
+    "storage_bucket": "urbanmalta-fe8a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594393075069:android:a2c0372349e37f223cd014",
+        "android_client_info": {
+          "package_name": "com.urbanmalta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594393075069-g4qigggl683n2htsids52ocjo7icg7ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyNXBFhfcoeCOfDAYAIAvlZ_DaECvPFFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594393075069-g4qigggl683n2htsids52ocjo7icg7ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
